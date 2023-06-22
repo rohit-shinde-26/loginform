@@ -1,0 +1,39 @@
+.select{
+  width: 100%;
+}
+
+.navbar_container {
+list-style-type: none;
+background-color: rgb(110, 102, 102);
+padding: 40px;
+}
+.navbar_container li{
+  float: right;
+  margin-top: -10px;
+  color: white;
+  font-weight: bold;
+}
+.Companyinfo_container{
+  margin-left: 35%;
+  margin-top: 10%;
+  font-size: 20px;
+  background-color: rgb(202, 213, 213);
+  padding: 40px;
+  width: 500px;
+  font-weight: 600;
+}
+.hero{
+  display: flex;
+}
+.hero1 img{
+  width: 200px;
+  padding:0 20px 20px 0 ;
+}
+.butn button{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.main_con{
+  width: 450px;
+  margin-left: -100px;
+}
